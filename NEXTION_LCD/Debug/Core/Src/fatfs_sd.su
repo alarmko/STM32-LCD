@@ -1,0 +1,9 @@
+fatfs_sd.c:83:13:SD_PowerOn	56	static
+fatfs_sd.c:139:13:SD_RxDataBlock	64	static
+fatfs_sd.c:171:13:SD_TxDataBlock	64	static
+fatfs_sd.c:222:13:SD_SendCmd	64	static
+fatfs_sd.c:268:9:SD_disk_initialize	64	static
+fatfs_sd.c:371:9:SD_disk_status	0	static
+fatfs_sd.c:380:9:SD_disk_read	56	static
+fatfs_sd.c:424:9:SD_disk_write	48	static
+fatfs_sd.c:479:9:SD_disk_ioctl	72	static

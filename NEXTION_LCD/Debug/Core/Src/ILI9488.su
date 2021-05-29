@@ -1,0 +1,12 @@
+ILI9488.c:83:55:output_D0_D15_port	0	static
+ILI9488.c:47:55:WritePulse	16	static
+ILI9488.c:88:6:write_control_seq	16	static
+ILI9488.c:113:6:LCD_ILI9488_init	16	static
+ILI9488.c:142:6:Command_2A	24	static
+ILI9488.c:162:6:Command_2B	24	static
+ILI9488.c:182:6:Command_2C	16	static
+ILI9488.c:197:41:LCD_ILI9488_raw_datafeed_start	16	static
+ILI9488.c:213:41:LCD_ILI9488_raw_feed_pixel	16	static
+ILI9488.c:218:41:LCD_ILI9488_raw_datafeed_end	0	static
+ILI9488.c:222:6:LCD_Rect_Fill	8	static
+ILI9488.c:238:6:LCD_Font	96	static

@@ -1,0 +1,6 @@
+main.c:165:8:SD_TO_W25Q	56	static
+main.c:433:6:SystemClock_Config	88	static
+main.c:477:6:MX_SPI1_Init	8	static
+main.c:109:5:main	80	static,ignoring_inline_asm
+main.c:677:6:HAL_GPIO_EXTI_Callback	0	static
+main.c:694:6:Error_Handler	0	static
